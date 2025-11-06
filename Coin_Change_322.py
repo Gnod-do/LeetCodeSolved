@@ -11,6 +11,6 @@ class Solution(object):
 
 
 sol = Solution()
-coins = [2]
-amount = 3
+coins = [1,2,5]
+amount = 11
 print(sol.coinChange(coins,amount))

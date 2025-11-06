@@ -12,5 +12,5 @@ class Solution(object):
         return False
 
 solution = Solution()
-nums = [1,2,3,1]
+nums = [1,2,3,6]
 print(solution.containsDuplicate(nums))
