@@ -8,6 +8,7 @@ class Solution:
                 return [dic[diff],i]
             dic[n] = i
 
+
 twosum = Solution()
 nums = [2, 7, 11, 15]
 target = 20
