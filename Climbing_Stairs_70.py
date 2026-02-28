@@ -11,5 +11,5 @@ class Solution(object):
         return dp[n]
 
 sol = Solution()
-n = 2
+n = 4
 print(sol.climbStairs(n))
